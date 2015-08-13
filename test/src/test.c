@@ -26,10 +26,10 @@ int main(void) {
          a=b;
          printf("%s",*a);
 //
-//	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
-//	printf("%d",5);
-//	printf("%c",'a');
-//	printf("hello world!");
-//	printf("你好,世界");
+	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+	printf("%d",5);
+	printf("%c",'a');
+	printf("hello world!");
+	printf("你好,世界");
 	return EXIT_SUCCESS;
 }
